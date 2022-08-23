@@ -2,7 +2,7 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![lorem picsum gorsel](https://imgyukle.com/f/2022/08/23/nSnfhQ.png)
+![lorem picsum gorsel](https://imgyukle.com/f/2022/08/23/nSQ7wN.png)
 
 
 # Installation
@@ -26,6 +26,10 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+# Patika Profile
+
+[Gamze Koca](https://app.patika.dev/gamzekoca)
 
 
 
